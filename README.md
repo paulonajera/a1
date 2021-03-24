@@ -52,7 +52,7 @@ In this image you can see the output for Example.
 
 ![image](https://user-images.githubusercontent.com/34780150/112249541-f8284780-8c25-11eb-9e5b-51a6614edb16.png)
 
-
+After this I ran into some issues with implementing the proper arguements for the method logFieldAcc. 
 
 
  
