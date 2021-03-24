@@ -39,14 +39,17 @@ The number of total edges between CHA and Spark is an extreme difference. I susp
 **Part 3**
 
 Part 3 had us add a couple of print statements to Example.java.
+
 ![image](https://user-images.githubusercontent.com/34780150/112249225-61f42180-8c25-11eb-8a40-1599439d3c8d.png)
 
 We also had to generate Example.jimple through TestSootLogging.java and then run Example to see the output.
 
 In this image you can see the generated file Example.jimple.
+
 ![part3SootOutput](https://user-images.githubusercontent.com/34780150/112249412-bb5c5080-8c25-11eb-8856-9b700fc63db4.png)
 
 In this image you can see the output for Example.
+
 ![image](https://user-images.githubusercontent.com/34780150/112249541-f8284780-8c25-11eb-9e5b-51a6614edb16.png)
 
 
